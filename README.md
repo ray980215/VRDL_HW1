@@ -7,7 +7,7 @@ https://github.com/ray980215/VRDL_HW1
 
 You can download pretrained models here:
 
-
+https://drive.google.com/file/d/1HDK5yFhJROlxp-UaxlDkVnYCf4d1p61r/view?usp=sharing
 
 ## Results
 
